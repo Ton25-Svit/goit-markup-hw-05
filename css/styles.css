@@ -56,7 +56,7 @@ button {
     color: #2e2f42;
 }
 
-.address {
+.address-item {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -65,13 +65,13 @@ button {
     color: #434455;
 }
 
-.address a {
+.address-item a {
     font-weight: 500;
     color: #434455;
 }
 
-.address a:hover,
-.address a:focus {
+.address-item a:hover,
+.address-item a:focus {
     color: #404BBF;
 }
 /* Header */
