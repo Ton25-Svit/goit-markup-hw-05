@@ -235,7 +235,7 @@ flex-basis: calc((100% - 3 * 24px) / 4)
 }
 .section-two-list {
     background-color: #FFFFFF;
-    flex-basis: calc((100% - 3 * 24px) / 4)
+    flex-basis: calc((100% - 3 * 24px) / 4);
     border-radius: 0 0 4px 4px;
 }
 .team-name {
