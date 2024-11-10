@@ -195,7 +195,7 @@ img {
     gap: 24px;
 }
 .advantages-item {
-    width: calc((100% - 72px) / 4);
+flex-basis: calc((100% - 3 * 24px) / 4)
 }
 .section-one-title {
     font-weight: 500;
@@ -235,7 +235,7 @@ img {
 }
 .section-two-list {
     background-color: #FFFFFF;
-    width: calc((100% - 3 * 24px) / 4);
+    flex-basis: calc((100% - 3 * 24px) / 4)
     border-radius: 0 0 4px 4px;
 }
 .team-name {
@@ -262,7 +262,7 @@ img {
 /* Section 2 Our Team */
 /* Section 3 Our portfolio*/
 .section-portfolio {
-padding: 120px 0;
+    padding: 120px 0;
 }
 .section-three {
     font-weight: 700;
@@ -281,7 +281,7 @@ padding: 120px 0;
     row-gap: 48px;
 }
 .section-three-list {
-width: calc((100% - 48px) / 3);
+    width: calc((100% - 48px) / 3);
 }
 .section-three-title {
     font-weight: 500;
