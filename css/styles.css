@@ -97,6 +97,7 @@ img {
     color: #2e2f42;
     display: flex;
     gap: 40px;
+    padding: 24px 0;
 }
 .address-header{
     font-style: normal;
