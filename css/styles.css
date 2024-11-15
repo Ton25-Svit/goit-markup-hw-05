@@ -94,9 +94,7 @@ img {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
-    display: flex;
-    gap: 40px;
+    display: block;
     padding: 24px 0;
 }
 .address-header{
@@ -106,7 +104,6 @@ img {
 .address{
     display: flex;
     gap: 40px;
-    padding: 24px 0 24px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -133,9 +130,6 @@ img {
     padding-top: 188px;
     padding-bottom: 188px;
     text-align: center;
-    display: flex;
-    align-items: center;
-    margin: 0 auto;
 }
 
 .hero-text {
